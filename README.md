@@ -1,4 +1,4 @@
-### 👋 Hello, I am Rachana 
+### (https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif) Hello, I am Rachana 
 ![](https://visitor-badge.laobi.icu/badge?page_id=racsing.racsing) [![Github](https://img.shields.io/github/followers/racsing?label=Followers&logo=Github)](https://github.com/racsing)
 
 
@@ -22,8 +22,7 @@ I'm a passionate software professional with significant experience in DevOps. I'
 ## :trophy: My Github Stats:
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=racsing&theme=buefy">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api?username=racsing&theme=buefy"><img  align="left" src="https://github-readme-stats.vercel.app/api?username=racsing&count_private=true&show_icons=true&theme=buefy" />
 </a>
 <!--
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=racsing&hide=php&theme=buefy">
