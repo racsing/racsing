@@ -8,7 +8,7 @@ I'm a passionate software professional with significant experience in DevOps. I'
 🌱 I’m currently learning Python . 
 👯 I’m looking to collaborate with anyone on any project.
 
-<p align="right"><img alt="racsing" width="40px" src="code.gif"/> </p>
+<p align="right"><img alt="racsing" width="200px" src="code.gif"/> </p>
 
  
 <div>
