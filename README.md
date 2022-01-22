@@ -17,9 +17,10 @@
 
 
 I'm a passionate software professional with significant experience in DevOps. I'm new to the open source community and hoping to contribute more.
-     I began my career in April 2019 as a project engineer at Wipro Ltd, where I worked on ERP and DevOps related projects.
 
-<img align="right" alt="GIF" src="code.gif?raw=true" width="500" height="320" />
+I began my career in April 2019 as a project engineer at Wipro Ltd, where I worked on ERP and DevOps related projects.
+
+<img align="right" alt="GIF" src="code.gif?raw=true" width="450" height="290" />
 
 - 🌱 I’m currently learning Python . 
 - 👯 I’m looking to collaborate with anyone on any project.
@@ -50,4 +51,6 @@ Other        7 mins          ░░░░░░░░░░░░░░░░░
 <br/>
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=racsing.racsing) [![Github](https://img.shields.io/github/followers/racsing?label=Followers&logo=Github)](https://github.com/racsing)
+<div>
+ ![](https://visitor-badge.laobi.icu/badge?page_id=racsing.racsing) [![Github](https://img.shields.io/github/followers/racsing?label=Followers&logo=Github)](https://github.com/racsing)
+</div>
