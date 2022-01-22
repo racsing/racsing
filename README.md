@@ -1,37 +1,51 @@
-## <p align="center"><img alt="racsing" width="40px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" /> Hello there, I am Rachana ! </p>
+### <p align="center"><img alt="racsing" width="40px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" /> Hello, I am [Rachana](https://racsing.github.io) ! 
+<br/>
+<a href="https://linkedin.com/in/racsing">
+ <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="racsing" width="22px">
+</a>
+<a href="mailto:rachanas.work@gmail.com"> 
+ <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="racsing" width="22px">
+</a>
+<a href="https://twitter.com/_racsing">
+ <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="racsing" width="22px"> 
+</a>
+<a href="https://instagram.com/_racsing">
+ <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="racsing" width="22px"> 
+</a>
+</p>
+
+<br/>
 
 
-I'm a passionate software professional with significant experience in DevOps. I'm new to the open source community and I love how collaboration and knowledge sharing happens through open-source. I'm hoping to learn and contribute more.
+I'm a passionate software professional with significant experience in DevOps. I'm new to the open source community and hoping to contribute more.
 
-🚘 I began my career in April 2019 as a project engineer at Wipro Ltd, where I worked on ERP and DevOps related projects.  
+🚘 I began my career in April 2019 as a project engineer at Wipro Ltd, where I worked on ERP and DevOps related projects.
 
 🌱 I’m currently learning Python . 
-👯 I’m looking to collaborate with anyone on python and java projects.
+👯 I’m looking to collaborate with anyone on any project.
+
+ <img align="right" alt="GIF" src="code.gif?raw=true" width="500" height="320" />
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+```text
+JavaScript   49 hrs 5 mins   ███████████████████████▓░   94.99 % 
+JSON         1 hr 54 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+HTML         20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Other        10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+TypeScript   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+```
+<!--END_SECTION:waka-->
 
 <div>
-<p align="right"><img alt="racsing" width="300px" src="code.gif"/> </p>
-
- 
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=racsing&theme=Gradient"><img  align="left" src="https://github-readme-stats.vercel.app/api?username=racsing&count_private=true&show_icons=true&theme=Gradient" />
+<a href="https://github-readme-stats.vercel.app/api?username=racsing&theme=gotham"><img  align="left" src="https://github-readme-stats.vercel.app/api?username=racsing&count_private=true&show_icons=true&theme=gotham" />
 </a>
 <!--
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=racsing&hide=php&theme=buefy">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racsing&hide=php&theme=Gradient"/>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=racsing&hide=php&theme=gotham">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racsing&hide=php&theme=gotham"/>
 </a>
 -->
 </div>
-</div
-
- </br>
- 
-## Contact me
-<p align="left"><a href="https://racsing.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="racsing" height="40" style="vertical-align:top; margin:4px"> </a>
-<a href="https://linkedin.com/in/racsing" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="racsing" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="mailto:rachanas.work@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="racsing" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://twitter.com/_racsing" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="racsing" height="40" style="vertical-align:top; margin:4px"> </a>
-<a href="https://instagram.com/_racsing" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="racsing" height="40" style="vertical-align:top; margin:4px"> </a>
-</p>
-<br /> 
+<br/>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=racsing.racsing) [![Github](https://img.shields.io/github/followers/racsing?label=Followers&logo=Github)](https://github.com/racsing)
