@@ -1,5 +1,10 @@
-### (https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif) Hello, I am Rachana 
-![](https://visitor-badge.laobi.icu/badge?page_id=racsing.racsing) [![Github](https://img.shields.io/github/followers/racsing?label=Followers&logo=Github)](https://github.com/racsing)
+### <img align="center" alt="racsing" width="40px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" /> Hello, I am Rachana 
+![] [<a href="https://racsing.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="racsing" height="40" style="vertical-align:top; margin:4px"> </a>
+<a href="https://linkedin.com/in/racsing" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="racsing" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="mailto:rachanas.work@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="racsing" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://twitter.com/_racsing" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="racsing" height="40" style="vertical-align:top; margin:4px"> </a>
+<a href="https://instagram.com/_racsing" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="racsing" height="40" style="vertical-align:top; margin:4px"> </a>]
+<br />
 
 
 I'm a passionate software professional with significant experience in DevOps. I'm new to the open source community and hoping to contribute more.
@@ -9,25 +14,17 @@ I'm a passionate software professional with significant experience in DevOps. I'
 🌱 I’m currently learning Python . 
 👯 I’m looking to collaborate with anyone on any project.
 
-## Connect with me 
-<p align="center">
-<a href="https://racsing.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="racsing" height="40" style="vertical-align:top; margin:4px"> </a>
-<a href="https://linkedin.com/in/racsing" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="racsing" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="mailto:rachanas.work@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="racsing" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://twitter.com/_racsing" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="racsing" height="40" style="vertical-align:top; margin:4px"> </a>
-<a href="https://instagram.com/_racsing" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="racsing" height="40" style="vertical-align:top; margin:4px"> </a>
-</p>
-<br />
-
+ 
 ## :trophy: My Github Stats:
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=racsing&theme=buefy"><img  align="left" src="https://github-readme-stats.vercel.app/api?username=racsing&count_private=true&show_icons=true&theme=buefy" />
+<a href="https://github-readme-stats.vercel.app/api?username=racsing&theme=Gradient"><img  align="left" src="https://github-readme-stats.vercel.app/api?username=racsing&count_private=true&show_icons=true&theme=Gradient" />
 </a>
 <!--
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=racsing&hide=php&theme=buefy">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racsing&hide=php&theme=buefy"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racsing&hide=php&theme=Gradient"/>
 </a>
 -->
 </div>
 
+![](https://visitor-badge.laobi.icu/badge?page_id=racsing.racsing) [![Github](https://img.shields.io/github/followers/racsing?label=Followers&logo=Github)](https://github.com/racsing)
