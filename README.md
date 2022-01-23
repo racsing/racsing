@@ -10,9 +10,6 @@ I began my career in April 2019 as a project engineer at Wipro Ltd, where I work
 - 🌱 I’m currently learning Python. 
 - 👯 I’m looking to collaborate on any java and python projects.
 
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=racsing&theme=gotham"><img  align="left" src="https://github-readme-stats.vercel.app/api?username=racsing&count_private=true&show_icons=true&theme=gotham" /></a>
-</div>
 
 </br>
 <h3>Things I code with</h3>
