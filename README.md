@@ -48,17 +48,11 @@ I began my career in April 2019 as a project engineer at Wipro Ltd, where I work
 </div>
 
 <br/>
-<h3>Välkommen till <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/>India</h3>
-<p><img width="200" src="{{img1}}" /> <img width="200" src="{{img2}}" /> <img width="200" src="{{img3}}" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Currently, the weather is: <b> {{city_temperature}}°C, <i>{{city_weather}}</i></b></br>Today, the sun rises at <b>{{sun_rise}}</b> and sets at <b>{{sun_set}}</b>.</p>
+
 <h3>Where to find me</h3>
-<p><a href="https://linkedin.com/in/racsing" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://twitter.com/_racsing" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="mailto:rachanas.work@gmail.com" target="_blank"><img alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="15px" /></a><a href="https://instagram.com/_racsing" target="_blank"><img alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<p><a href="https://linkedin.com/in/racsing" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://twitter.com/_racsing" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="mailto:rachanas.work@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a><a href="https://instagram.com/_racsing" target="_blank"><img alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 24 hours</b>!</br>Last refresh: {{refresh_date}}<br /></p>
-<p align="center"><img src="https://github.com/racsing/racsing/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/racsing/racsing?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/racsing/racsing?style=flat-square&labelColor=343b41"/></p>
-
-
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=racsing.racsing) [![Github](https://img.shields.io/github/followers/racsing?label=Followers&logo=Github)](https://github.com/racsing)
