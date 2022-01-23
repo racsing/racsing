@@ -1,7 +1,9 @@
 <h1><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30"/> Hello, I am Rachana ! </h1>
 
 <p>Welcome to my Github page! </br>I am from <b> 🇮🇳 Bangalore, India.</b></p>
+![](https://visitor-badge.laobi.icu/badge?page_id=racsing.racsing) 
 
+<p>
 <img align="right" alt="GIF" src="code.gif?raw=true" width="250" height="200" />
 I'm a passionate software professional with significant experience in DevOps. I'm new to the open source community and hoping to contribute more.
 
@@ -9,11 +11,15 @@ I began my career in April 2019 as a project engineer at Wipro Ltd, where I work
 
 - 🌱 I’m currently learning Python. 
 - 👯 I’m looking to collaborate on any java and python projects.
-
+</p>
 
 </br>
 <h3>Things I code with</h3>
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /><img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /><img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" /><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
 
 <h3>Where to find me</h3>
@@ -21,12 +27,4 @@ I began my career in April 2019 as a project engineer at Wipro Ltd, where I work
 </p>
 
 
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=racsing&theme=gotham"><img  align="left" src="https://github-readme-stats.vercel.app/api?username=racsing&count_private=true&show_icons=true&theme=gotham" /></a>
-</div>
 
-
-</br>
-<p align="center">
-![](https://visitor-badge.laobi.icu/badge?page_id=racsing.racsing) [![Github](https://img.shields.io/github/followers/racsing?label=Followers&logo=Github)](https://github.com/racsing)
-</p>
