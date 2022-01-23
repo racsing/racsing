@@ -50,7 +50,7 @@ I began my career in April 2019 as a project engineer at Wipro Ltd, where I work
 <br/>
 
 <h3>Where to find me</h3>
-<p><a href="https://linkedin.com/in/racsing" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://twitter.com/_racsing" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="mailto:rachanas.work@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a><a href="https://instagram.com/_racsing" target="_blank"><img alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<p><a href="https://linkedin.com/in/racsing" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://twitter.com/_racsing" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="mailto:rachanas.work@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a><a href="https://instagram.com/_racsing" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>
 </p>
 
 ------------
