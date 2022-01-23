@@ -1,0 +1,22 @@
+{
+  "name": "racsing",
+  "version": "1.0.0",
+  "description": "dynamic readme file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/racsing/racsing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/racsing/racsing/issues"
+  },
+  "homepage": "https://github.com/racsing/racsing#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
