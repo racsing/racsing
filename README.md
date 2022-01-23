@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30"/> Hello, I am [Rachana](https://github.com/racsing) ! </h1>
+<h1><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30"/> Hello, I am Rachana ! </h1>
 
 <p>Welcome to my page! </br>I am from<img src="https://www.shutterstock.com/image-illustration/made-india-illustration-banner-badge-colorful-683234635" width="13"/> <b>Bangalore, India.</b></p>
 <h3>Things I code with</h3>
