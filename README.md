@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
+<h1><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30"/> Hello, I am [Rachana](https://racsing.github.io) ! </h1>
 
 <p>Welcome to my page! </br>I am [Rachana](https://racsing.github.io), from<img src="https://www.shutterstock.com/image-illustration/made-india-illustration-banner-badge-colorful-683234635" width="13"/> <b>Bangalore, India.</b></p>
 <h3>Things I code with</h3>
@@ -10,7 +10,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-### <p align="center"><img alt="racsing" width="40px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" /> Hello, I am [Rachana](https://racsing.github.io) ! 
+
 <a href="https://linkedin.com/in/racsing">
  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="racsing" width="22px">
 </a>
