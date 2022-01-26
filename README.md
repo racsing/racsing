@@ -2,20 +2,16 @@
  <h1><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30"/> Hello, I am Rachana ! </h1>
 
  ![](https://visitor-badge.laobi.icu/badge?page_id=racsing.racsing) 
-
- <div align="left"> Welcome to my Github page! </div>
  
  <img align="right" alt="GIF" src="code.gif?raw=true" width="300" height="200" />
-
- <p> 
-   I am from 🇮🇳 Bangalore, India. I'm a passionate software professional with significant experience in DevOps. I'm new to the open source community and hoping to contribute more.
-   </p>
-   <p>I began my career in April 2019 as a project engineer at Wipro Ltd, where I worked on ERP and DevOps related projects.
-   </p>
- </p>
+  
+ <div align="left"> Welcome to my Github page! 
+    <p>I am from 🇮🇳 Bangalore, India. I'm a passionate software professional with significant experience in DevOps. I'm new to the open source community and hoping to contribute more.</p>
+    <p>I began my career in April 2019 as a project engineer at Wipro Ltd, where I worked on ERP and DevOps related projects.</p>
+ </div>
 
 </br>
- 
+
  ## 🛠️ Tech I worked upon
   <h3> DevOps </h3>
     <p>  
