@@ -3,7 +3,7 @@
 
  ![](https://visitor-badge.laobi.icu/badge?page_id=racsing.racsing) 
 
- ## Welcome to my Github page! 
+ ### Welcome to my Github page! 
  
  <img align="right" alt="GIF" src="code.gif?raw=true" width="300" height="200" />
  <p>
@@ -12,6 +12,8 @@
    <h3>I began my career in April 2019 as a project engineer at Wipro Ltd, where I worked on ERP and DevOps related projects. I have experience with Java, Python, RDBMS, TSDB, AWS Cloud and various devops tools such as docker, k8, git, jenkins, ansible, saltstack, new relic,nagios, and grafana.
    </h3>
 
+ 
+ 
  ## 🛠️ Tech I worked upon
   <h3> DevOps </h3>
     <p>  
@@ -19,9 +21,11 @@
       <img align="center" alt="Git" src="https://img.shields.io/badge/Git-2088FF?style=for-the-badge&logo=git&logoColor=white">
       <img align="center" alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
       <img align="center" alt="Ansible" src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white">
-      <img align="center" alt="New Relic" src="https://img.shields.io/badge/New_Relic-2088FF?style=for-the-badge&logo=nre-relic&logoColor=white">
-      <img align="center" alt="Grafana" src="https://img.shields.io/badge/Grafana-2088FF?style=for-the-badge&logo=grafana&logoColor=white">
-      <img align="center" alt="Nagios" src="https://img.shields.io/badge/nagios-2088FF?style=for-the-badge&logo=nagios&logoColor=white">
+    </p>
+    <p>
+      <img align="center" alt="New Relic One" src="https://img.shields.io/badge/New_Relic-2088FF?style=for-the-badge&logo=nre-relic&logoColor=white">
+      <img align="center" alt="Grafana" src="https://img.shields.io/badge/Grafana-FFA500?style=for-the-badge&logo=grafana&logoColor=white">
+      <img align="center" alt="Nagios" src="https://img.shields.io/badge/nagios-000000?style=for-the-badge&logo=nagios&logoColor=white">
       <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
     </p>
     
@@ -40,12 +44,15 @@
     </p>
     
 
+ 
  ## 📚 Currently Learning
  <p>
    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
    <img alt="Github" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
  </p>
+ 
+ 
  
  ## 📱 Reach me on
  <p>
@@ -62,6 +69,8 @@
      <img alt="Instagram" src="https://img.shields.io/badge/instagram-E6007A?style=for-the-badge&logo=instagram&logoColor=000"/>
    </a>
  </p>
+ 
+ 
 
  ## 📊 GitHub stats
   <a href="https://github.com/racsing">
