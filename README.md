@@ -3,7 +3,7 @@
 
  ![](https://visitor-badge.laobi.icu/badge?page_id=racsing.racsing) 
 
- ### Welcome to my Github page! 
+ ## Welcome to my Github page! 
  
  <img align="right" alt="GIF" src="code.gif?raw=true" width="300" height="200" />
  <p>
@@ -12,37 +12,42 @@
    <h3>I began my career in April 2019 as a project engineer at Wipro Ltd, where I worked on ERP and DevOps related projects. I have experience with Java, Python, RDBMS, TSDB, AWS Cloud and various devops tools such as docker, k8, git, jenkins, ansible, saltstack, new relic,nagios, and grafana.
    </h3>
 
- ### 🛠️ Tech I worked upon
-  <h3> Front-end </h3>
+ ## 🛠️ Tech I worked upon
+  <h3> DevOps </h3>
     <p>  
-      <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-      <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+      <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+      <img align="center" alt="Git" src="https://img.shields.io/badge/Git-2088FF?style=for-the-badge&logo=git&logoColor=white">
+      <img align="center" alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+      <img align="center" alt="Ansible" src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white">
+      <img align="center" alt="New Relic" src="https://img.shields.io/badge/New_Relic-2088FF?style=for-the-badge&logo=nre-relic&logoColor=white">
+      <img align="center" alt="Grafana" src="https://img.shields.io/badge/Grafana-2088FF?style=for-the-badge&logo=grafana&logoColor=white">
+      <img align="center" alt="Nagios" src="https://img.shields.io/badge/nagios-2088FF?style=for-the-badge&logo=nagios&logoColor=white">
+      <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
     </p>
+    
+  <h3> Technology </h3>
     <p>
-      <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-      <img align="center" alt="webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">
-    </p>
-  <h3> Back-end </h3>
-    <p> 
-      <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-      <img align="center" alt="expressjs" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-      <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
-    </p>
-    <p>
-      <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-      <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+      <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+      <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+      <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
       <img align="center" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB">
     </p>
+    <p>
+      <img align="center" alt="RDBMS" src="https://img.shields.io/badge/RDBMS-005C84?style=for-the-badge&logo=RDBMS&logoColor=white">
+      <img align="center" alt="TSDB" src="https://img.shields.io/badge/TSDB-22ADF6?style=for-the-badge&logo=TSDB&logoColor=white">
+      <img align="center" alt="apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white">
+      <img align="center" alt="nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+    </p>
+    
 
- ### 📚 Currently Learning
+ ## 📚 Currently Learning
  <p>
    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
    <img alt="Github" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
  </p>
  
- ### 📱 Reach me on
+ ## 📱 Reach me on
  <p>
    <a href="https://linkedin.com/in/racsing" target="_blank">
      <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -58,7 +63,7 @@
    </a>
  </p>
 
- ### 📊 GitHub stats
+ ## 📊 GitHub stats
   <a href="https://github.com/racsing">
      <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=racsing&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_rank=true"/>
   </a>
