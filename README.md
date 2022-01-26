@@ -1,6 +1,6 @@
 <h1><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30"/> Hello, I am Rachana ! </h1>
-
 <p>Welcome to my Github page! </br>I am from <b> 🇮🇳 Bangalore, India.</b></p>
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=racsing.racsing) 
 
 <p>
