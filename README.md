@@ -3,9 +3,9 @@
 
  ![](https://visitor-badge.laobi.icu/badge?page_id=racsing.racsing) 
 
- <img align="right" alt="GIF" src="code.gif?raw=true" width="300" height="200" />
-
  ### Welcome to my Github page! 
+ 
+ <img align="right" alt="GIF" src="code.gif?raw=true" width="300" height="200" />
  <p>
    <h3>I am from 🇮🇳 Bangalore, India. I'm a passionate software professional with significant experience in DevOps. I'm new to the open source community and hoping to contribute more.
    </h3>
