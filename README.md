@@ -2,9 +2,10 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=racsing.racsing) 
 
+<img align="right" alt="GIF" src="code.gif?raw=true" width="300" height="200" />
+
 <p>Welcome to my Github page! </br></p>
 
-<img align="right" alt="GIF" src="code.gif?raw=true" width="250" height="200" />
 <p>I am from <b> 🇮🇳 Bangalore, India. I'm a passionate software professional with significant experience in DevOps. I'm new to the open source community and hoping to contribute more.</p>
 <p>I began my career in April 2019 as a project engineer at Wipro Ltd, where I worked on ERP and DevOps related projects. I have experience with Java, Python, RDBMS, TSDB, AWS Cloud and various devops tools such as docker, k8, git, jenkins, ansible, saltstack, new relic,nagios, and grafana</p>
 
