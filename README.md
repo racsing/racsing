@@ -1,25 +1,19 @@
 <h1><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30"/> Hello, I am Rachana ! </h1>
-<p>Welcome to my Github page! </br>I am from <b> 🇮🇳 Bangalore, India.</b></p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=racsing.racsing) 
 
-<p>
+<p>Welcome to my Github page! </br></p>
+
 <img align="right" alt="GIF" src="code.gif?raw=true" width="250" height="200" />
-I'm a passionate software professional with significant experience in DevOps. I'm new to the open source community and hoping to contribute more.
+<p>I am from <b> 🇮🇳 Bangalore, India. I'm a passionate software professional with significant experience in DevOps. I'm new to the open source community and hoping to contribute more.</p>
+<p>I began my career in April 2019 as a project engineer at Wipro Ltd, where I worked on ERP and DevOps related projects. I have experience with Java, Python, RDBMS, TSDB, AWS Cloud and various devops tools such as docker, k8, git, jenkins, ansible, saltstack, new relic,nagios, and grafana</p>
 
-I began my career in April 2019 as a project engineer at Wipro Ltd, where I worked on ERP and DevOps related projects.
-
-- 🌱 I’m currently learning Python. 
-- 👯 I’m looking to collaborate on any java and python projects.
-</p>
 
 </br>
-<h3>Things I code with</h3>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<h3>Currently Learning</h3>
+  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img alt="Github" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 
 
 <h3>Where to find me</h3>
