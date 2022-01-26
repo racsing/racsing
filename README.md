@@ -3,13 +3,14 @@
 
  ![](https://visitor-badge.laobi.icu/badge?page_id=racsing.racsing) 
 
- <div align="left"> # Welcome to my Github page! </div>
+ <div align="left"> Welcome to my Github page! </div>
  
  <img align="right" alt="GIF" src="code.gif?raw=true" width="300" height="200" />
- <p>
-   <p>I am from 🇮🇳 Bangalore, India. I'm a passionate software professional with significant experience in DevOps. I'm new to the open source community and hoping to contribute more.
+
+ <p> 
+   I am from 🇮🇳 Bangalore, India. I'm a passionate software professional with significant experience in DevOps. I'm new to the open source community and hoping to contribute more.
    </p>
-   <p>I began my career in April 2019 as a project engineer at Wipro Ltd, where I worked on ERP and DevOps related projects. I have experience with Java, Python, RDBMS, TSDB, AWS Cloud and various devops tools such as docker, k8, git, jenkins, ansible, saltstack, new relic,nagios, and grafana.
+   <p>I began my career in April 2019 as a project engineer at Wipro Ltd, where I worked on ERP and DevOps related projects.
    </p>
  </p>
 
@@ -53,7 +54,7 @@
    <img alt="Github" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
  </p>
  
- </br>
+</br>
  
  ## 📱 Reach me on
  <p>
@@ -71,7 +72,7 @@
    </a>
  </p>
  
- </br>
+</br>
 
  ## 📊 GitHub stats
   <a href="https://github.com/racsing">
