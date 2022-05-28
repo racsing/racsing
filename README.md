@@ -1,4 +1,4 @@
-<div align="left">
+<div align="">
  <h1> Hello, I am Rachana Singh ! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30"/></h1>
 
  ![](https://visitor-badge.laobi.icu/badge?page_id=racsing.racsing) 
